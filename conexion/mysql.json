@@ -1,0 +1,6 @@
+{
+	"database_username" : "root" ,
+	"database_password" : "" ,
+	"database_ip" : "localhost",
+	"database_name" : "covid19"
+}
